@@ -1,0 +1,7 @@
+google-genai
+playwright
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pillow
